@@ -31,7 +31,6 @@
       </additionalLanguages>
     </languages>
     <searchSequence>
-      <envVar name="PATH" />
       <registry />
       <envVar name="JAVA_HOME" />
       <envVar name="JDK_HOME" />
